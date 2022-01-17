@@ -1,8 +1,7 @@
 ![](https://img.shields.io/badge/ubuntu-learning-E95420?style=flat-square&logo=ubuntu&logoColor=E95420)
-![](https://img.shields.io/badge/PyTorch-learning-EE4C2C?style=flat-square&logo=PyTorch&logoColor=EE4C2C)
-[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
-![](https://img.shields.io/badge/Raspberry%20Pi-4B-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=A22846)
 ![](https://img.shields.io/badge/Matlab-learning-007396?style=flat-square&logo=Matlab&logoColor=ffffff)
+![](https://img.shields.io/badge/PyTorch-learning-EE4C2C?style=flat-square&logo=PyTorch&logoColor=EE4C2C)
+![](https://img.shields.io/badge/Raspberry%20Pi-4B-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=A22846)
 ![](https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 
