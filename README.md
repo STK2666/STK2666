@@ -2,8 +2,8 @@
 ![](https://img.shields.io/badge/PyTorch-learning-EE4C2C?style=flat-square&logo=PyTorch&logoColor=EE4C2C)
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 [![](https://img.shields.io/badge/Honor-V30-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.apple.com/)
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
-![](https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=ffffff)
+![](https://img.shields.io/badge/Matlab-learning-007396?style=flat-square&logo=matlab&logoColor=ffffff)
+![](https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 
 ### Hi there 👋
