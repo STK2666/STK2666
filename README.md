@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/ubuntu-learning-E95420?style=flat-square&logo=ubuntu&logoColor=E95420)
+![](https://img.shields.io/badge/Ubuntu-learning-E95420?style=flat-square&logo=ubuntu&logoColor=E95420)
 ![](https://img.shields.io/badge/Matlab-learning-007396?style=flat-square&logo=Matlab&logoColor=ffffff)
 ![](https://img.shields.io/badge/PyTorch-learning-EE4C2C?style=flat-square&logo=PyTorch&logoColor=EE4C2C)
 ![](https://img.shields.io/badge/Raspberry%20Pi-4B-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=A22846)
